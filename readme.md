@@ -23,3 +23,5 @@
 <b>"Say goodbye to the hassle of complex editing software and embrace the simplicity of resizing with our user-friendly application".</b>
 
 <u>Download Select an Image to Resize today and experience the convenience of image resizing at your fingertips. Elevate your visual content with the perfect dimensions every time!</u>
+
+Do not forget "npm install --save-dev @electron-forge/cli, npm run package if you have an error during running the project!"
