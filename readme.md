@@ -20,6 +20,6 @@
 
 <h4>Whether you need to prepare images for a presentation, optimize them for your website, or share them on social media, Select an Image to Resize empowers you to effortlessly adjust image dimensions with precision and ease.</h4>
 
-"Say goodbye to the hassle of complex editing software and embrace the simplicity of resizing with our user-friendly application".
+<b>"Say goodbye to the hassle of complex editing software and embrace the simplicity of resizing with our user-friendly application".</b>
 
-Download Select an Image to Resize today and experience the convenience of image resizing at your fingertips. Elevate your visual content with the perfect dimensions every time!
+<u>Download Select an Image to Resize today and experience the convenience of image resizing at your fingertips. Elevate your visual content with the perfect dimensions every time!</u>
