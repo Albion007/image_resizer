@@ -25,3 +25,11 @@
 <u>Download Select an Image to Resize today and experience the convenience of image resizing at your fingertips. Elevate your visual content with the perfect dimensions every time!</u>
 
 Do not forget "npm install --save-dev @electron-forge/cli, npm run package if you have an error during running the project!"
+
+<h3> If you only want to use the application and not for coding purposes, follow these steps within this repository:
+
+- Copy/paste the link found inside the file "imageresizerapp rar.txt".
+- Download the folder.
+- Unzip the folder.
+- Within the folder, locate the "ImageResizer.exe" file.
+- Open it, and everything will work properly. </h3>
